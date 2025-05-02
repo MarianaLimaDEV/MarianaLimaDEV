@@ -48,9 +48,9 @@
 <table align="center">
   <thead>
     <tr>
-      <th> <img src="https://icons.getbootstrap.com/assets/icons/camera-fill.svg" alt="Camera Icon" width="50"> </th>
-      <th> <img src="https://icons.getbootstrap.com/assets/icons/palette2.svg" alt="Palette Icon" width="50"> </th>
-      <th> <img src="https://icons.getbootstrap.com/assets/icons/brush.svg" alt="Brush Icon" width="50"> </th>
+      <th> <img src="iconizer-camera-fill.svg" alt="Camera Icon" width="40"/> </th>
+      <th> <img src="iconizer-palette2.svg" alt="Palette Icon" width="40"/> </th>
+      <th> <img src="iconizer-brush.svg" alt="Brush Icon" width="40"/> </th>
     </tr>
   </thead>
   <tbody>
