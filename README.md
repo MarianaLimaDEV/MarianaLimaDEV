@@ -39,7 +39,7 @@
   <tr>
     <!-- Coluna da esquerda -->
     <td  width="50%">
-      <h2 align="center" >Find me here! ♡︎ </h2>
+      <h2 align="center" > Me encontre aqui!! ♡︎ </h2>
       <a href="https://discord.com/users/560628140473581569" target="_blank">
         <img src="https://skillicons.dev/icons?i=discord&theme=light" width="70">
       </a>
