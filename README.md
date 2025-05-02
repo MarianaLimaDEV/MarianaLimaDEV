@@ -1,4 +1,3 @@
-### WIP!
 
 <table align="center">
   <thead>
@@ -41,13 +40,13 @@
     <td  width="50%">
       <h2 align="center" > Me encontre aqui!! ♡︎ </h2>
       <a href="https://discord.com/users/560628140473581569" target="_blank">
-        <img src="https://skillicons.dev/icons?i=discord&theme=light" width="65">
+        <img src="https://skillicons.dev/icons?i=discord&theme=light" width="55">
       </a>
       <a href="mailto:marianalima.developer@gmail.com">
-        <img src="https://skillicons.dev/icons?i=gmail&theme=light" width="65">
+        <img src="https://skillicons.dev/icons?i=gmail&theme=light" width="55">
       </a>
       <a href="https://instagram.com/marianalima.dev" target="_blank">
-        <img src="https://skillicons.dev/icons?i=instagram&theme=light" width="65">
+        <img src="https://skillicons.dev/icons?i=instagram&theme=light" width="55">
       </a>
     </td>
   <!-- Coluna da direita -->
@@ -56,20 +55,20 @@
       <table>
         <thead>
           <tr>
-            <th><img src="iconizer-camera-fill.svg" width="60"> </th>
-            <th><img src="iconizer-palette2.svg" width="60"></th>
-            <th><img src="iconizer-brush.svg" width="60"></th>
+            <th><img src="iconizer-camera-fill.svg" width="55"> </th>
+            <th><img src="iconizer-palette2.svg" width="55"></th>
+            <th><img src="iconizer-brush.svg" width="55"></th>
           </tr>
         </thead>
         <tbody>
           <tr>
-            <td><img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white" width="200"> 
+            <td><img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white" width="180"> 
             <a href="https://instagram.com/marianalima.jpg" target="_blank">
-                <img src="https://skillicons.dev/icons?i=instagram&theme=light" width="40">
+                <img src="https://skillicons.dev/icons?i=instagram&theme=light" width="30">
             </a>
             </td>
-            <td><img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" width="120"></td>
-            <td><img src="https://img.shields.io/badge/ClipStudioPaint-%23CFD3D3.svg?style=for-the-badge&logo=ClipStudioPaint&logoColor=white" width="200"></td>
+            <td><img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" width="100"></td>
+            <td><img src="https://img.shields.io/badge/ClipStudioPaint-%23CFD3D3.svg?style=for-the-badge&logo=ClipStudioPaint&logoColor=white" width="180"></td>
           </tr>
         </tbody>
       </table>
