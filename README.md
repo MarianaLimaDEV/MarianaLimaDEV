@@ -41,13 +41,13 @@
     <td  width="50%">
       <h2 align="center" > Me encontre aqui!! ♡︎ </h2>
       <a href="https://discord.com/users/560628140473581569" target="_blank">
-        <img src="https://skillicons.dev/icons?i=discord&theme=light" width="70">
+        <img src="https://skillicons.dev/icons?i=discord&theme=light" width="65">
       </a>
       <a href="mailto:marianalima.developer@gmail.com">
-        <img src="https://skillicons.dev/icons?i=gmail&theme=light" width="70">
+        <img src="https://skillicons.dev/icons?i=gmail&theme=light" width="65">
       </a>
       <a href="https://instagram.com/marianalima.dev" target="_blank">
-        <img src="https://skillicons.dev/icons?i=instagram&theme=light" width="70">
+        <img src="https://skillicons.dev/icons?i=instagram&theme=light" width="65">
       </a>
     </td>
   <!-- Coluna da direita -->
