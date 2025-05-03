@@ -1,5 +1,5 @@
-<h1><strong> ⚝ | Oi! Pode me chamar se Lima, e esse é o meu GitHub! </strong></h1>
-<img src="Limaoi.gif" width="200" align="right">
+<h1><strong> ⚝ | Oi! Pode me chamar de Lima, e esse é o meu GitHub! </strong></h1>
+<img src="Limaoi.gif" width="180" align="right">
 
 <table align="center">
   <thead>
