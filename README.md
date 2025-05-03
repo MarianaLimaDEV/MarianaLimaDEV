@@ -1,4 +1,7 @@
-<img src="limaaa.gif" width="800" align="center">
+<div  align="center">
+  <img src="limaaa.gif" width="800">
+</div>
+  
 <table align="center">
   <thead>
     <tr>
