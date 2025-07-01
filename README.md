@@ -42,7 +42,7 @@
     <!-- Coluna da esquerda -->
     <td  width="50%">
       <h2 align="center" > Me encontre aqui!! ♡︎ </h2>
-      <a href="https://discord.com/users/560628140473581569" target="_blank">
+      <a href="https://discord.com/users/1389658233014325331" target="_blank">
         <img src="https://skillicons.dev/icons?i=discord&theme=light" width="55">
       </a>
       <a href="mailto:marianalima.developer@gmail.com">
