@@ -1,80 +1,26 @@
-<div  align="center">
-  <img src="limaaa.gif" width="800">
+<div align="center">
+
+  <!-- Seção de Ferramentas -->
+  <h2>Ferramentas</h2>
+  <a href="https://skillicons.dev" target="_blank">
+    <img src="https://skillicons.dev/icons?i=cpp,css,html,js,debian" width="290" alt="Ferramentas de desenvolvimento">
+  </a>
+  <br>
+  <img src="https://skillicons.dev/icons?i=figma,git,github,visualstudio,vscode" width="290" alt="Ferramentas de design e versionamento">
+
+  <!-- Seção de Contato -->
+  <h2>Entre em contato!</h2>  
+  <a href="https://discord.com/users/1389658233014325331" target="_blank">
+    <img src="https://skillicons.dev/icons?i=discord" width="50" alt="Discord">
+  </a>
+  <a href="mailto:marianalima.developer@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" width="50" alt="Gmail">
+  </a>
+  <a href="https://instagram.com/marianalima.dev" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" width="50" alt="Instagram">
+  </a>
+  <a href="https://www.linkedin.com/in/mariana-lima-74806a396" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="50" alt="LinkedIn">
+  </a>
+
 </div>
-  
-<table align="center">
-  <thead>
-    <tr>
-      <th style="text-align:center;"><h2> Tecnologias e Softwares </h2></th>
-      <th style="text-align:center;"><h2> Aprendendo </h2></th>
-      <th style="text-align:center;"><h2> Próximos passos </h2></th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center">
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=html,css,cpp,php,mysql,obsidian,notion,vscode&perline=3&theme=light" width="200" />
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=git,github,figma,js&perline=3&theme=light" width="200" />
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,nodejs,py,sass&perline=3&theme=light" width="200"  />
-        </a>
-      </td>
-    </tr>
-  </tbody>
-</table>
-
-
-
-<h1 align="center"> ─────────────── ･ ｡ﾟ☆: *.☽ .*:☆ﾟ. ─────────────── </h1>
-
-
-
-<table align="center">
-  <tr>
-    <!-- Coluna da esquerda -->
-    <td  width="50%">
-      <h2 align="center" > Me encontre aqui!! ♡︎ </h2>
-      <a href="https://discord.com/users/1389658233014325331" target="_blank">
-        <img src="https://skillicons.dev/icons?i=discord&theme=light" width="55">
-      </a>
-      <a href="mailto:marianalima.developer@gmail.com">
-        <img src="https://skillicons.dev/icons?i=gmail&theme=light" width="55">
-      </a>
-      <a href="https://instagram.com/marianalima.dev" target="_blank">
-        <img src="https://skillicons.dev/icons?i=instagram&theme=light" width="55">
-      </a>
-    </td>
-  <!-- Coluna da direita -->
-    <td align="center" width="50%">
-      <h2>Hobbies softwares!</h2>
-      <table>
-        <thead>
-          <tr>
-            <th><img src="iconizer-camera-fill.svg" width="55"> </th>
-            <th><img src="iconizer-palette2.svg" width="55"></th>
-            <th><img src="iconizer-brush.svg" width="55"></th>
-          </tr>
-        </thead>
-        <tbody>
-          <tr>
-            <td><img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white" width="180"> 
-            <a href="https://instagram.com/marianalima.jpg" target="_blank">
-                <img src="https://skillicons.dev/icons?i=instagram&theme=light" width="30">
-            </a>
-            </td>
-            <td><img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" width="100"></td>
-            <td><img src="https://img.shields.io/badge/ClipStudioPaint-%23CFD3D3.svg?style=for-the-badge&logo=ClipStudioPaint&logoColor=white" width="180"></td>
-          </tr>
-        </tbody>
-      </table>
-    </td>
-  </tr>
-</table>
